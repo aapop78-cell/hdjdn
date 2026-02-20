@@ -1,6 +1,6 @@
 {
-  "version": "1.1",
+"版本"："1.1"，"版本":"1.1",
   "download_url": "http://wpan.cdndns.site/down/XXsock",
-  "changelog": "更新新的防封，请使用VPN，否则会下载失败",
-  "mandatory": false
+  "更改日志": "更新新的防封，请使用VPN，否则会下载失败",
+  "强制": 假的
 }
